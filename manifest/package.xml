@@ -119,7 +119,7 @@
 		<members>Campsite__c</members>
 		<members>Case</members>
 		<members>CaseContactRole</members>
-		<!-- <members>ChatterActivity</members> -->
+		<members>ChatterActivity</members>
 		<members>CollaborationGroup</members>
 		<members>CollaborationGroupMember</members>
 		<members>ConsumptionRate</members>
