@@ -4,7 +4,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <label>Autotalli -sovellus</label>
+    <label>Garage - App</label>
     <tabs>standard-Chatter</tabs>
     <tabs>standard-File</tabs>
     <tabs>Vehicle__c</tabs>
